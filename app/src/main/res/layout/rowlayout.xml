@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+    <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/pid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="id"/>
+    <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/pname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="name"/>
+    <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/pemail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="email"/>
+    <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/plocation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="location"/>
+</LinearLayout>
+
+ <!--   <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/quote"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="quote"
+    />
+    <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/author"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="author"
+    />
+    <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/length"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="length"
+    />
+    <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/tags"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="tags"
+    />
+    <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/category"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="category"
+    />
+    <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="title"
+    />
+    <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="date"
+    />
+    <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="id"
+    />
+    <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/copyright"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="copyright"
+    />-->
+
+
+
+
